@@ -27,7 +27,7 @@
     "bson": "1.0.4",
     "fstream": "1.0.11",
     "graceful-fs": "4.1.11",
-    "mongodb": "2.2.34",
+    "mongodb": "2.2.31",
     "tar": "2.2.1"
   },
   "engines": {
